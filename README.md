@@ -22,10 +22,46 @@
 </div>
 
 <div align="center">
-    <a href="mailto:samia2000@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
-    </a>
+    <a href="https://www.linkedin.com/in/samsoftwareengineer/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+        
+   </a>
 
+<a href="https://myportfoliosamia.blogspot.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"/>
+    </a>
+    </div>
+
+ <h2 align="center"> ⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ <br/>
+
+ <div align="center">
+ <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,sql,python,mysql,bootstrap,nodejs" /><br/>
+ <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,github,eclipse,kafka,vscode,aws,azure" />
+ </a>
+ </div>
+
+ <br/>
+ <hr/>
+ <div align="center">
+     <h2> 🎯 My Contributions 🎯</h2>
+      <br/>
+      <img src="https://raw.githubusercontent.com/codePerfectionista/codePerfectionista/output/github-contribution-grid-snake.svg" />
+       <br/> <br/> <br/>
+ </div>
+    <h2 align="center">✨ Stats ✨</h2>
+
+<br/>
+
+
+
+
+
+
+
+
+     
 <!--
 **codePerfectionista/codePerfectionista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
