@@ -1,6 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id/codePerfectionista/codePerfectionista" />
-
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
