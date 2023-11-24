@@ -44,7 +44,7 @@
 
  <br/>
  <hr/>
- <div align="center">
+<!--  <div align="center">
      <h2> 🎯 My Contributions 🎯</h2>
       <br/>
       <img src="https://raw.githubusercontent.com/codePerfectionista/codePerfectionista/output/github-contribution-grid-snake.svg" />
@@ -52,7 +52,7 @@
  </div>
     <h2 align="center">✨ Stats ✨</h2>
 
-<br/>
+<br/> -->
 
 
 
