@@ -13,7 +13,7 @@
 
 🔭 I’m currently working on **end-to-end full-stack applications with Angular, Node.js, Typescript, and Stripe!**
 
-🗨️ Ask me about **Web Dev, DevOps, Agile Principals, Software Testing**...or anything you'd like to know!
+🗨️ Ask me about **Web Dev, Data Management, DevOps, Agile Principals, Software Testing**...or anything you'd like to know!
 
 ⚡ Fun fact: I love to learn and consider myself as "Ms. Jack of all trades, master of many!" I'll always embrace a growth mindset! 👩‍🎓
 </div>
