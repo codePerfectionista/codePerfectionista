@@ -13,11 +13,9 @@
 
 🔭 I’m currently working on **end-to-end full-stack applications with Angular, Node.js, Typescript, and Stripe!**
 
-🌱 I’m currently learning **Node.js, Typescript, and React**
-
 🗨️ Ask me about **Web Dev, DevOps, Agile Principals, Software Testing**...or anything you'd like to know!
 
-⚡ Fun fact: I love to learn and embrasse myself asking questions! Anything that comes to mind! Will always be a student! 👩‍🎓
+⚡ Fun fact: I love to learn and consider myself as "Ms. Jack of all trades, master of many!" I'll always embrace a growth mindset! 👩‍🎓
 </div>
 
 <div align="center">
