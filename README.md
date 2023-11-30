@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codePerfectionista.codePerfectionista">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codePerfectionista.codePerfectionista"> -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=codePerfectionista.visitor-badge)
 
 
 <h1 align="center">
