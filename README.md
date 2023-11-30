@@ -1,6 +1,8 @@
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codePerfectionista.codePerfectionista"> -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=codePerfectionista.visitor-badge)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=codePerfectionista.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
