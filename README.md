@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=codePerfectionista.codePerfectionista">
+
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
