@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **end-to-end full-stack applications with Angular, Node.js, Typescript, and Stripe!**
+🔭 I’m currently working on **OpenAI API to create multiple projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator!**
 
 🗨️ Ask me about **Web Dev, Data Management, DevOps, Agile Principals, Software Testing**...or anything you'd like to know!
 
