@@ -2,6 +2,11 @@
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=codePerfectionista.codePerfectionista.visitor-badge)-->
 
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=codePerfectionista.codePerfectionistavisitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)-->
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samia+Ahmed!;+Founder+of+SA+Healthcare+AI" />
+
+</h1>
 
 
 <h1 align="center">
@@ -14,7 +19,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 We are solving the reliability problem in healthcare AI by introducing strict engineering guardrails into agentic workflows:
 * **Deterministic Guardrails:** Creating reproducible outputs where guesswork is eliminated.
